@@ -1,7 +1,7 @@
-module.exports = helloLuka;
+module.exports = helloLuka
 
 function helloLuka (phrase, numberOfSpaces, leftOrRight){
-  var spaces = '';
+  var spaces = ''
   if (leftOrRight == 'left') {
     for(var i = 0; i < numberOfSpaces; i++){
       spaces += ' '
@@ -17,5 +17,5 @@ function helloLuka (phrase, numberOfSpaces, leftOrRight){
       } else {
     console.log('Do you want to add spaces to the left or right side?')
   }
-  console.log(lukafiedPhrase);
+  console.log(lukafiedPhrase)
 };
