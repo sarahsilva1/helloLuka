@@ -1,0 +1,24 @@
+{
+  "name": "hello-luka",
+  "version": "1.0.0",
+  "description": "An npm that adds empty spaces to the left or right side of a string.",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarahsilva1/helloLuka/"
+  },
+  "keywords": [
+    "leftpad",
+    "space",
+    "spaces",
+    "left-pad",
+    "left",
+    "pad"
+  ],
+  "author": "Sarah Silva <ssarrraahh@hotmail.com> (https://github.com/sarahsilva1)",
+  "license": "ISC"
+}
